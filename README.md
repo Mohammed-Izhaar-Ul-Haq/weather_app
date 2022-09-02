@@ -1,2 +1,3 @@
-# weather_app
-android weather app
+Weather app
+based on java
+API used:Open Wather
